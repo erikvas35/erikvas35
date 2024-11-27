@@ -11,7 +11,7 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Bitcoint Tracing w/ QLUE & Blockchair                                         | <a href="https://google.com](https://www.rhsmith.umd.edu/news/umds-justice-fraud-victims-host-business-fraud-prevention-seminar)">JFV @ UMD</a>                        |
+| Bitcoint Tracing w/ QLUE & Blockchair                                         | <a href="https://www.rhsmith.umd.edu/news/umds-justice-fraud-victims-host-business-fraud-prevention-seminar">JFV @ UMD</a>                        |
 | Coding in Java & Python                                   | Keylogger                        |
 | TBA                                          | TBA                        |
 
