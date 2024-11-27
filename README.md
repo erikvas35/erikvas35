@@ -12,7 +12,7 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Bitcoint Tracing w/ QLUE & Blockchair                                         | <a href="https://www.rhsmith.umd.edu/news/umds-justice-fraud-victims-host-business-fraud-prevention-seminar">JFV @ UMD</a>                        |
-| Running Scripts via Python Code                                   | Keylogger Script                       |
+| Running Scripts via Python Code                                   | <a href="https://github.com/erikvas35/Keylogger/tree/main">Keylogger Script</a>                       |
 | Knowledgeable in HTML code                                          | <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator</a>               |
 
 ### Networking 
