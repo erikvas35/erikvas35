@@ -45,3 +45,10 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 ## Projects
 - <a href="https://github.com/erikvas35/Media-Customer-Checkout">Media Customer Checkout</a>
 - <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator</a>
+
+## Resume
+
+You can view and download my resume by clicking the link below:
+
+[View My Resume](https://docs.google.com/document/d/1OQ9d3sX1wYIs3w6E9GYTxFbcLDW75P62/edit?usp=sharing&ouid=101746136356710485051&rtpof=true&sd=true)
+
