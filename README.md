@@ -43,5 +43,5 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 </div>
 
 ## Projects
-- Media Customer Checkout 
+- <a href="https://google.com](https://www.rhsmith.umd.edu/news/umds-justice-fraud-victims-host-business-fraud-prevention-seminar)](https://github.com/erikvas35/Media-Customer-Checkout)">Media Customer Checkout</a>
 - Webpage Generator
