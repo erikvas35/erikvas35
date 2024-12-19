@@ -13,7 +13,7 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 |-----------------------------------------------|----------------------------|
 | Bitcoint Tracing w/ QLUE & Blockchair                                         | <a href="https://www.rhsmith.umd.edu/news/umds-justice-fraud-victims-host-business-fraud-prevention-seminar">JFV @ UMD</a>                        |
 | Running Scripts via Python Code                                   | <a href="https://github.com/erikvas35/Keylogger/tree/main">Keylogger Script</a>                       |
-| Knowledgeable in HTML code                                          | <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator</a>               |
+| Knowledgeable in HTML code  (Available for review at request)                                        | <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator</a>               |
 
 ### Networking 
 <div>
@@ -43,8 +43,8 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 </div>
 
 ## Projects
-- <a href="https://github.com/erikvas35/Media-Customer-Checkout">Media Customer Checkout</a>
-- <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator</a>
+- <a href="https://github.com/erikvas35/Media-Customer-Checkout">Media Customer Checkout (Available at request) </a>
+- <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator (Available at request) </a>
 - Malware Analysis - In Progress
 
 ## Resume
