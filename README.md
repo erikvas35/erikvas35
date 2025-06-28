@@ -45,7 +45,6 @@ My journey in cybersecurity has lead me to want to learn more about network engi
 ## Projects
 - <a href="https://github.com/erikvas35/Media-Customer-Checkout">Media Customer Checkout (Available at request) </a>
 - <a href="https://github.com/erikvas35/Webpage-Generator/tree/main">Webpage Generator (Available at request) </a>
-- Malware Analysis - In Progress
 
 ## Resume
 
