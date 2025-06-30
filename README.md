@@ -9,20 +9,6 @@ Bachelor of Science, Computer Science - Cybersecurity Track
 - **Programs:** Honors College Program, Cybersecurity Club, Gemstones Teaching Assistant
 - **Relevant Coursework:** Introduction to Computer Systems, Discrete Structures, Data Structures & Algorithms
 
-## Work Experience
-
-### Cybercrime Investigator - Cryptocurrency Fraud | *Sep 2024 – Present*
-**Justice For Fraud Victims** - *College Park, MD*
-- Partner with Prince George's County Police Department on cybercrime investigations, contributing to 5+ active cryptocurrency fraud cases
-- Conduct advanced blockchain analysis using Blockchain and QLUE platforms to trace fraudulent transactions across $500K+ in disputed cryptocurrency
-- Document investigation findings and prepare technical reports for law enforcement proceedings
-
-### Researcher | *Aug 2024 – Present*
-**Gemstones Program: Team AI-PCOS** - *College Park, MD*
-- Collaborate with a multidisciplinary team of 9 people to design and develop a software tool for detecting potential cases of Polycystic Ovary Syndrome (PCOS) through early recognition of patient data patterns
-- Conducted surveys in Prince George County with 25+ people regarding PCOS struggles, gathering valuable insights to inform software development
-- Lead the Cybersecurity subgroup to ensure data privacy and security, implementing secure data handling practices in compliance with healthcare regulations (e.g., HIPAA)
-
 ## Skills
 
 ### Programming Languages
